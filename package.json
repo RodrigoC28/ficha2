@@ -1,0 +1,27 @@
+{
+  "name": "ficha2",
+  "version": "1.0.0",
+  "description": "Realização Ficha 2 P3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoC28/Ficha2.git"
+  },
+  "keywords": [
+    "P3",
+    "Node",
+    "Express",
+    "Git"
+  ],
+  "author": "rodrigoc28",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RodrigoC28/Ficha2/issues"
+  },
+  "homepage": "https://github.com/RodrigoC28/Ficha2#readme"
+}
