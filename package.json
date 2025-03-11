@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/RodrigoC28/Ficha2#readme",
   "dependencies": {
+    "express": "^4.21.2",
     "nodemon": "^3.1.9"
   }
 }
